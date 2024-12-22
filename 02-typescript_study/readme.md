@@ -1,0 +1,1 @@
+这是我`typescript`的学习笔记，学习`typescript`之前请先学习`javascript`，我因为本来就已经会`javascript`所以这边就没有`javascript`的笔记
